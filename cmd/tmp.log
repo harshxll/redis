@@ -1,0 +1,4 @@
+1				key do not exist			NULL		NULL
+2				key do not exist			NULL		NULL
+3				  PUT			hello			hello from redis
+4				  GET			hello			hello from redis
